@@ -25,6 +25,22 @@ h2{
   font-family: sans-serif;
   font-size: 75;
 }
+  a:link {
+    background-color: yellow;
+  }
+
+  a:visited {
+    background-color: cyan;
+  }
+
+  a:hover {
+    background-color: lightgreen;
+  }
+
+  a:active {
+    background-color: hotpink;
+  }
+}
 img {
   display: inline-flex;
   margin-left: auto;
