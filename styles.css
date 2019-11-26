@@ -1,18 +1,13 @@
 <html>
 <head>
 <style>
-text{
 
-}
-div.background{
-  color: inherit;
-}
 paragraph{
   text-align: center;
   font style: normal;
   font-family: sans-serif;
-  font-size: 125;
-}
+  font-size: 65;
+  }
 h1{
   text-align: center;
   font-style: normal;
@@ -23,30 +18,29 @@ h2{
   text-align: left;
   font-style: normal;
   font-family: sans-serif;
-  font-size: 75;
+  font-size: 70;
 }
-  a:link {
-    background-color: yellow;
-  }
-
-  a:visited {
-    background-color: cyan;
-  }
-
-  a:hover {
-    background-color: lightgreen;
-  }
-
-  a:active {
-    background-color: hotpink;
-  }
-}
-img {
-  display: inline-flex;
-  margin-left: auto;
-  margin-right: auto;
-  width: 40%;
-}
-paragraph{
+h3{
   text-align: center;
+  font-style: normal;
+  font-family: sans-serif;
+  font-size: 65;
 }
+a{
+  text-align: center;
+  font-style: normal;
+  font-weight: bold;
+  font-family: sans-serif;
+  font-size: 70;
+}
+a:visited{
+    background-color: yellow;
+    color: black;
+    padding: 25px, 30px;
+    text-decoration: none;
+    display: inline-block;
+  }
+  a:hover {
+    background-color: black;
+    color: white;
+  }
